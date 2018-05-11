@@ -1,0 +1,3 @@
+python embedding_product_no.py
+python update_sqlite_product_database.py
+python update_user_feature_database.py
